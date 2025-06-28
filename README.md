@@ -1,1 +1,1 @@
-[Demo link for Grocery_WebApp](https://github.com/MEENAKSHI384/Grocery__WebApp/security/secret-scanning/unblock-secret/2z5v1Cma5QXBytl7CpZdvsX4OxV)
+[Demo link for Grocery_WebApp](https://drive.google.com/file/d/18xWla1dgc26aun8iucLxe6nNnHMNLsbO/view?usp=sharing)
